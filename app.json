@@ -1,0 +1,15 @@
+{
+    "name": "express-commerce",
+    "description": "A Node.js e-commerce app bulit with express, handlebars, and PayPal.",
+    "keywords": [
+        "Shopping cart",
+        "express",
+        "mongodb",
+        "nodejs",
+        "ecommerce",
+        "paypal",
+        "lunr",
+        "cart",
+        "shopping"
+    ]
+}
