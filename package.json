@@ -34,7 +34,7 @@
     "lunr": "^2.3.6",
     "mime-db": "^1.40.0",
     "mime-type": "^3.0.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongodb": "2.2.3",
     "mongodb-uri": "^0.9.7",
     "morgan": "^1.9.1",
